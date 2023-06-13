@@ -1,1 +1,1 @@
-# wdio-page-object-model
+Example of using POM in developing automated tests
